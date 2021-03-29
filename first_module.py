@@ -8,7 +8,7 @@ def main():
 
 
 # It is checking to see if this file is run directly by python or
-# it is being imported.If it is imported, __name__ = <file name> instead of '__main'
+# it is being imported. If it is imported, __name__ = <file name> instead of '__main'
 if __name__ == "__main__":
     main()
     print("Run Directly")
