@@ -10,7 +10,7 @@ test_var_args('java', 'python', 'C#', 'php')
 
 print('-------------------------------------------')
 
-# the usage of **kwargs, which passes keywored variuable length of arguments to a function.it is used
+# the usage of **kwargs, which passes keywored variable length of arguments to a function.it is used
 # if I want to handle named arguments in a function.
 
 
