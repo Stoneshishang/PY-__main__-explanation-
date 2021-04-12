@@ -12,8 +12,8 @@ def my_map(func, arg_list):
         result.append(func(i))
     return result
 
- # square is the first class function, without ()
-squares = my_map(cube, [1, 2, 3, 4, 5])
+ # square/cube is the first class function, without ()
+squares = my_map(square, [1, 2, 3, 4, 5])
 
 print(squares)
 
