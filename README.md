@@ -1,4 +1,6 @@
-This is the explanation of **main** in python, following the youtube. https://www.youtube.com/watch?v=sugvnHA7ElY&ab_channel=CoreySchafer
+## This repo consist of all the PY basics I went through during learning.
+
+- This is the explanation of **main** in python, following the youtube. https://www.youtube.com/watch?v=sugvnHA7ElY&ab_channel=CoreySchafer
 
 - First-Class Functions https://youtu.be/kr0mpwqttM0
 - Closures in PY https://www.youtube.com/watch?v=swU3c34d2NQ&ab_channel=CoreySchafer
