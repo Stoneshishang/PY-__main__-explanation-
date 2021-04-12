@@ -1,8 +1,8 @@
 # This repo consist of all the PY basics I went through during learning.
 
-## README.md syntax <https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#headings>
+###### README.md syntax <https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#headings>
 
-## README.md warnings <https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md#md034---bare-url-used>
+###### README.md warnings <https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md#md034---bare-url-used>
 
 1. CoreySchafer's explanation:
 
