@@ -7,6 +7,7 @@
    - First-Class Functions <https://youtu.be/kr0mpwqttM0>
    - Closures in PY <https://www.youtube.com/watch?v=swU3c34d2NQ&ab_channel=CoreySchafer>
    - Add Corey's Decorator explanation. <https://www.youtube.com/watch?v=FsAPt_9Bf3U&ab_channel=CoreySchafer>
+   - str() and repr() in python: <https://www.youtube.com/watch?v=5cvM-crlDvg&t=304s&ab_channel=CoreySchafer>
 
 2. Other useful explanations.
 
